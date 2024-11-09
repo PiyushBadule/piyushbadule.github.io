@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.9b3c877a.css",
-    "main.js": "/static/js/main.04452fae.js",
+    "main.js": "/static/js/main.c87b59cf.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
-    "static/media/Piyush_Badule_CV.pdf": "/static/media/Piyush_Badule_CV.998af091e10680cda758.pdf",
+    "static/media/Piyush_Badule_CV.pdf": "/static/media/Piyush_Badule_CV.9ed15bc6fea5331a92d7.pdf",
     "static/media/Certificate_3.jpg": "/static/media/Certificate_3.04004d5d63a33b79b6c0.jpg",
     "static/media/poster.jpg": "/static/media/poster.bcc6ac2526b60e8e48f0.jpg",
     "static/media/aws_data_engineer.png": "/static/media/aws_data_engineer.a5d98c4b0be131df2966.png",
     "static/media/aws_developer.png": "/static/media/aws_developer.6b2fe0732acede573757.png",
     "static/media/Certificate_1.jpg": "/static/media/Certificate_1.31eebd6e370d25b3ba7c.jpg",
     "static/media/Certificate_2.jpg": "/static/media/Certificate_2.afeb6efcbfd3368b4052.jpg",
+    "static/media/Azure_DE.png": "/static/media/Azure_DE.174685bf301741ddf30a.png",
     "index.html": "/index.html",
     "main.9b3c877a.css.map": "/static/css/main.9b3c877a.css.map",
-    "main.04452fae.js.map": "/static/js/main.04452fae.js.map",
+    "main.c87b59cf.js.map": "/static/js/main.c87b59cf.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b3c877a.css",
-    "static/js/main.04452fae.js"
+    "static/js/main.c87b59cf.js"
   ]
 }
