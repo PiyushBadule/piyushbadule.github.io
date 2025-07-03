@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c245e0e1.css",
-    "main.js": "/static/js/main.f4f9202e.js",
+    "main.css": "/static/css/main.c2eeb82f.css",
+    "main.js": "/static/js/main.4bd4f05f.js",
     "static/js/453.c9c35973.chunk.js": "/static/js/453.c9c35973.chunk.js",
     "static/media/PiyushBadule_CV.pdf": "/static/media/PiyushBadule_CV.12d2cefa5d08d916dec1.pdf",
     "static/media/certificate_3.jpg": "/static/media/certificate_3.2787d7820080074fd92d.jpg",
@@ -13,12 +13,12 @@
     "static/media/azure_de.png": "/static/media/azure_de.f7b39a5879e9163a4c87.png",
     "static/media/airflow.png": "/static/media/airflow.b0ec726803acb38114e2.png",
     "index.html": "/index.html",
-    "main.c245e0e1.css.map": "/static/css/main.c245e0e1.css.map",
-    "main.f4f9202e.js.map": "/static/js/main.f4f9202e.js.map",
+    "main.c2eeb82f.css.map": "/static/css/main.c2eeb82f.css.map",
+    "main.4bd4f05f.js.map": "/static/js/main.4bd4f05f.js.map",
     "453.c9c35973.chunk.js.map": "/static/js/453.c9c35973.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c245e0e1.css",
-    "static/js/main.f4f9202e.js"
+    "static/css/main.c2eeb82f.css",
+    "static/js/main.4bd4f05f.js"
   ]
 }
