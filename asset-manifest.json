@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.77c6e987.css",
-    "main.js": "/static/js/main.d50c67ca.js",
-    "static/js/453.c9c35973.chunk.js": "/static/js/453.c9c35973.chunk.js",
+    "main.css": "/static/css/main.40c73214.css",
+    "main.js": "/static/js/main.ba5f7d38.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/neural_network.mp4": "/static/media/neural_network.9f7cea0e36838efdd7ff.mp4",
     "static/media/PiyushBadule_CV.pdf": "/static/media/PiyushBadule_CV.12d2cefa5d08d916dec1.pdf",
     "static/media/certificate_3.jpg": "/static/media/certificate_3.2787d7820080074fd92d.jpg",
     "static/media/poster.jpg": "/static/media/poster.80d4eff5c38deaaca7a1.jpg",
@@ -13,12 +14,12 @@
     "static/media/azure_de.png": "/static/media/azure_de.f7b39a5879e9163a4c87.png",
     "static/media/airflow.png": "/static/media/airflow.b0ec726803acb38114e2.png",
     "index.html": "/index.html",
-    "main.77c6e987.css.map": "/static/css/main.77c6e987.css.map",
-    "main.d50c67ca.js.map": "/static/js/main.d50c67ca.js.map",
-    "453.c9c35973.chunk.js.map": "/static/js/453.c9c35973.chunk.js.map"
+    "main.40c73214.css.map": "/static/css/main.40c73214.css.map",
+    "main.ba5f7d38.js.map": "/static/js/main.ba5f7d38.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77c6e987.css",
-    "static/js/main.d50c67ca.js"
+    "static/css/main.40c73214.css",
+    "static/js/main.ba5f7d38.js"
   ]
 }
